@@ -1,0 +1,13 @@
+{
+  "name": "PlmMockData"
+  ,"version": "0.0.1"
+  ,"description": "sandbox for generating random mock data"
+  ,"author": "Philippe Paravicini <pparavicini@jetsonsys.com>"
+  ,"dependencies": {
+    "Faker": ">=0.5.11"
+    ,"node-uuid": "*"
+    ,"sprintf-js": "*"
+    ,"underscore": "*"
+    ,"underscore.string": "*"
+  }
+}
