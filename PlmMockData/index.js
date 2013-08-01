@@ -136,7 +136,7 @@ function createJetsonUser() {
 for (var i=0; i < numRecords; i++) {
 	var user = createJetsonUser();
 	var uid = user.uid;
-	delete user.uid;
+	// delete user.uid;
 	out[uid] = user;
 }
 
